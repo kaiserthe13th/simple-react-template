@@ -1,0 +1,20 @@
+.Counter {
+    display: flex;
+    font-size: 24px;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(48px * 3);
+    border-radius: 32px;
+    border: none;
+}
+
+.Counter > .Counter__button {
+    min-width: 48px;
+    min-height: 48px;
+    background-color: #c4d2df;
+    aspect-ratio: 1;
+    border: none;
+    border-radius: 32px;
+}

@@ -20,3 +20,6 @@ On Windows:
 ```console
 > ./start.bat
 ```
+
+3. Change package.json
+Change it to your liking, don't forget to change the package name.
